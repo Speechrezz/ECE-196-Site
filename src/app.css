@@ -12,6 +12,6 @@
 
 @layer components {
   .w-main {
-    @apply w-11/12 max-w-5xl;
+    @apply px-8 w-full md:px-0 md:w-11/12 md:max-w-5xl;
   }
 }
