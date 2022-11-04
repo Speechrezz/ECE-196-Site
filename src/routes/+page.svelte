@@ -10,7 +10,7 @@
 <Navbar />
 
 <main class='flex flex-col bg-neutral-1 md:bg-transparent'>
-  <div class='md:bg-[url("/img/HeroBG.png")] md:bg-cover w-full h-[42rem] absolute -z-10' 
+  <div class='md:bg-[url("/img/HeroBG.webp")] md:bg-cover w-full h-[42rem] absolute -z-10' 
     style:transform="translateY({scroll * 0.15 + 10}px)"/>
   <div class='w-full flex justify-center'>
     <div class='w-main flex flex-col md:flex-row md:justify-between'>
@@ -43,7 +43,7 @@
   </div>
 
   <div class='relative h-full w-full'>
-    <div class='md:bg-[url("/img/SectionBG1.png")] md:bg-cover w-full h-[40rem] absolute -z-10'
+    <div class='md:bg-[url("/img/SectionBG1.webp")] md:bg-cover w-full h-[40rem] absolute -z-10'
       style:transform="translateY({scroll * 0.15 - 150}px)"/>
   </div>
   <div class='w-full'>
