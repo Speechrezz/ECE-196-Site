@@ -43,8 +43,8 @@
   </div>
 
   <div class='relative h-full w-full'>
-    <div class='md:bg-[url("/img/SectionBG1.png")] md:bg-cover w-full h-[38rem] absolute -z-10'
-      style:transform="translateY({scroll * 0.15 - 160}px)"/>
+    <div class='md:bg-[url("/img/SectionBG1.png")] md:bg-cover w-full h-[40rem] absolute -z-10'
+      style:transform="translateY({scroll * 0.15 - 150}px)"/>
   </div>
   <div class='w-full'>
     <div class='w-main mx-auto flex flex-col align-middle'>
