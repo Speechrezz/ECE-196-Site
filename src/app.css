@@ -14,4 +14,12 @@
   .w-main {
     @apply px-8 w-full md:px-0 md:w-11/12 md:max-w-5xl;
   }
+
+  .btn {
+    @apply bg-accent-1 hover:bg-accent-1-hover transition-colors
+  }
+
+  .navbar-link {
+    @apply hover:bg-neutral-1-hover transition-colors
+  }
 }
