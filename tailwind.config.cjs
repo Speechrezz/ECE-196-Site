@@ -9,6 +9,7 @@ module.exports = {
         'neutral-1-hover': '#BFCED9',
         'accent-1':  '#998BF0',
         'accent-1-hover': '#A497F2',
+        'accent-1-darker': '#6964E2',
         'text-1' :   '#102B3E'
       },
       // backgroundImage: {
