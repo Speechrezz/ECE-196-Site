@@ -6,6 +6,7 @@ module.exports = {
       colors: {
         'base-1':    '#171823',
         'neutral-1': '#CFD9E2',
+        'neutral-1-darker': '#727983',
         'neutral-1-hover': '#BFCED9',
         'accent-1':  '#998BF0',
         'accent-1-hover': '#A497F2',

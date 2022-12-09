@@ -43,13 +43,16 @@
       <h2 class='text-neutral-1 mx-auto mt-24 mb-24 text-4xl'>See it in action</h2>
       <div class='flex flex-col md:flex-row md:justify-between mb-24 space-y-4 md:space-y-0'>
         <div class='md:w-80 h-52 rounded-md'>
-          <img src="/img/Mk.1 Render 1.png" alt="Mk.1 Render">
+          <img src="/img/Mk.1 Render 1.webp" alt="Mk.1 Render" 
+            class='rounded-md border border-neutral-1-darker sm:hover:scale-[104%] sm:transition-all'>
         </div>
         <div class='md:w-80 h-52 rounded-md'>
-          <img src="/img/Mk.1 Render 2.png" alt="Mk.1 Render" class='rounded-md'>
+          <img src="/img/Mk.1 Render 2.webp" alt="Mk.1 Render" 
+            class='rounded-md border border-neutral-1-darker sm:hover:scale-[104%] sm:transition-all'>
         </div>
         <div class='md:w-80 h-52 rounded-md'>
-          <img src="/img/Mk.1 Render 3.png" alt="Mk.1 Render" class='rounded-md'>
+          <img src="/img/Mk.1 Render 3.webp" alt="Mk.1 Render" 
+            class='rounded-md border border-neutral-1-darker sm:hover:scale-[104%] sm:transition-all'>
         </div>
       </div>
     </div>
@@ -74,7 +77,9 @@
               Everything you need for just $100.
             </span>
           </div>
-          <div class='bg-base-1 md:w-[17rem] h-32 rounded-md mx-auto'></div>
+          <div class='bg-base-1 md:w-[17rem] h-32 rounded-md mx-auto overflow-clip sm:hover:scale-[102%] sm:transition-transform'>
+            <img src="/img/Mk.1 Price.webp" alt="Coding screenshot">
+          </div>
         </div>
         <div class='flex-1 h-96 flex flex-col align-middle justify-between'>
           <div class='flex flex-col align-middle'>
@@ -84,7 +89,9 @@
               As easy to put together as Legos. Or just purchase it prebuilt.
             </span>
           </div>
-          <div class='bg-base-1 md:w-[17rem] h-32 rounded-md mx-auto'></div>
+          <div class='bg-base-1 md:w-[17rem] h-32 rounded-md mx-auto overflow-clip sm:hover:scale-[102%] sm:transition-transform'>
+            <img src="/img/Mk.1 Picture 1.webp" alt="Coding screenshot">
+          </div>
         </div>
         <div class='flex-1 md:border-l-[1px] md:border-gray-400 h-96 flex flex-col align-middle justify-between'>
           <div class='flex flex-col align-middle'>
@@ -94,8 +101,8 @@
               Easily integrate your own custom solutions.
             </span>
           </div>
-          <div class='bg-base-1 md:w-[17rem] h-32 rounded-md mx-auto overflow-clip'>
-            <img src="/img/Coding image.png" alt="Coding screenshot">
+          <div class='bg-base-1 md:w-[17rem] h-32 rounded-md mx-auto overflow-clip sm:hover:scale-[102%] sm:transition-transform'>
+            <img src="/img/Coding image.webp" alt="Coding screenshot">
           </div>
         </div>
       </div>
